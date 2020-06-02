@@ -12,7 +12,7 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Included Files
-1. run_analysis.R
-2. README.md
-3. CodeBook.md
-4. MeanData.txt
+1. CodeBook.md
+2. MeanData.txt
+3. README.md
+4. run_analysis.R
